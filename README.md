@@ -40,7 +40,7 @@ Results-driven **Full Stack Developer** with **2+ years** of experience building
 - Implementing secure authentication systems
 
 ### **ASP.NET Developer Intern** @ Uranus Tech Nepal
-*Oct 2023 - Jan 2024* | Remote
+*Oct 2023 - Jan 2024* 
 - Contributed to web application development
 - Collaborated with cross-functional teams
 - Gained expertise in API development
@@ -56,7 +56,7 @@ Results-driven **Full Stack Developer** with **2+ years** of experience building
 - Dashboard analytics
 
 ### 🏫 **[School Management System](https://github.com/abhishekkumarsahani)**
-- **Tech:** .NET Core, React, MongoDB
+- **Tech:** .NET Core, React, SQL Server
 - GPS bus tracking system
 - Payment integration (Khalti, eSewa)
 - Attendance & fee management
